@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ivanfuzzer
+- 👋 Hi, I’m @Ivan-Hofren
 - 👀 I’m interested in Artificial intelligence 
 - 🌱 I’m currently learning french because I´m forced to
 - 💞️ I’m looking to collaborate on ...
